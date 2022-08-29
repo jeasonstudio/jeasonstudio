@@ -2,7 +2,7 @@
 
 I'm Jeason, a Software Engineer from China 🇨🇳.
 
-You can mostly find me on [GitHub](https://github.com/jeasonstudio) and [Dingtalk](dingtalk://dingtalkclient/action/sendmsg?dingtalk_id=jeasonstudio), where I work on the [Alibaba Cloud](https://github.com/aliyun) [Dawn team](https://github.com/alibaba/dawn).<br/>
+You can mostly find me on [GitHub](https://github.com/jeasonstudio) and [Dingtalk](dingtalk://dingtalkclient/action/sendmsg?dingtalk_id=jeasonstudio), where I work on the [AntChain FE Team](https://github.com/antchain-fe).<br/>
 I also sometimes write things on [Yuque](https://www.yuque.com/jeason/box) or [Zhihu](https://www.zhihu.com/people/JeasonStudio/posts).
 
 If you want to know more, feel free to [contact me](mailto:me@jeasonstudio.cn). 
